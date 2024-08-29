@@ -13,10 +13,6 @@ The **SWAN DAO Governance** system is the backbone of the SWAN network, ensuring
   - **Voting:** Proposals are voted on by the community, with the majority determining the outcome. Voting power can be influenced by factors like token holdings and tenure in the community.
   - **Implementation:** Once a proposal is approved, it moves forward to implementation by relevant teams or sub-committees.
 
-- **Transparency:**
-  - **Open Ledger:** All decisions, votes, and financial transactions are recorded on a public ledger, ensuring full transparency and accountability.
-  - **Regular Reporting:** The committee provides ongoing updates to the community, keeping everyone informed about key decisions and the network’s financial status.
-
 - **Community Engagement:**
   - **Feedback Channels:** Multiple channels, such as forums, chats, and town halls, are available for community members to share their opinions and feedback.
   - **Educational Initiatives:** The DAO organizes workshops and webinars to educate the community about governance processes, empowering everyone to participate in informed decision-making.
