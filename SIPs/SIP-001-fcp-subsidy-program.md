@@ -51,10 +51,10 @@ Swan Network demand for AI training and inference on 7B-70B parameter models is 
 
 ### Payout Structure (Stage 1 Pilot)
 
-- **Plan A - Balanced Mix (default)**: 30% stablecoin (USDC/USDT) to cover fixed costs, 50% Swan Token direct reward, 20% Swan Token collateral locked for three months.
-- **Plan B - Higher Swan Incentive (optional)**: 20% stablecoin, 60% Swan Token, 20% locked collateral.
-- **Plan C - Stability-Heavy (for large clusters)**: >=50% stablecoin, <=40% Swan Token, >=10% locked collateral.
-- Providers can opt into Plan C if justified by cluster scale or operating costs; governance will evaluate requests above the default 30% stablecoin ratio to balance treasury risk with market stability feedback.
+- **Plan A - Balanced Mix (default)**: 30% stable-value assets (USDC/USDT/OP) to cover fixed costs, 50% Swan Token direct reward, 20% Swan Token collateral locked for three months.
+- **Plan B - Higher Swan Incentive (optional)**: 20% stable-value assets, 60% Swan Token, 20% locked collateral.
+- **Plan C - Stability-Heavy (for large clusters)**: >=50% stable-value assets, <=40% Swan Token, >=10% locked collateral.
+- For all plans, OP token may be substituted one-for-one with stablecoins within the stable-value allocation. Providers can opt into Plan C if justified by cluster scale or operating costs; governance will evaluate requests above the default 30% stable portion to balance treasury risk with market stability feedback.
 
 ### Monitoring
 
