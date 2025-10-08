@@ -17,7 +17,7 @@ The SWAN DAO governance system is the backbone of the SWAN ecosystem. It keeps d
 
 ## SIP (Swan Improvement Proposal)
 
-An SIP is the official, permanent record for any change, upgrade, or policy within Swan Chain, Swan Cloud, SwanFi, or the Swan Metaverse Foundation. SIPs move through community review, DAO voting, and implementation so every change remains transparent, versioned, and verifiable on-chain and in this repository.
+An SIP is the official, permanent record for any change, upgrade, or policy within Swan Chain, Swan Cloud, SwanFi, or the Swanchain Foundation. SIPs move through community review, DAO voting, and implementation so every change remains transparent, versioned, and verifiable on-chain and in this repository.
 
 ### When to Use an SIP
 
