@@ -68,7 +68,7 @@ Stage 1 focuses on securing compute supply ahead of anticipated customer onboard
 ## Implementation
 
 - **Timeline**: Prepare onboarding materials in September 2025; formally launch the pilot in October 2025 with a three to six month evaluation window.
-- **Administration**: Swan Foundation treasury team disburses stablecoins; Swan Cloud Inc. coordinates token and collateral flows via SwanFi.
+- **Administration**: Swan Foundation treasury team disburses stablecoins and coordinates token and collateral flows via SwanFi.
 - **Budgeting**: Monthly subsidy pool reviewed by governance; unused allocations roll over or revert to the treasury.
 - **Reporting**: Publish monthly program updates and hardware utilization metrics in GitHub Discussions; propose adjustments or expansion in a follow-on SIP if KPIs are met.
 
